@@ -24,4 +24,4 @@ http://prscsl-sr.shop/
 
 
 ## API 명세서
-![API명세서](https://user-images.githubusercontent.com/110075438/184659431-c221ecff-ed33-4c2a-938a-7a6ec1033fa2.PNG)
+![API명세서2](https://user-images.githubusercontent.com/110075438/184660534-af901b28-e416-49b7-9bb4-0eb262ae73fa.PNG)
