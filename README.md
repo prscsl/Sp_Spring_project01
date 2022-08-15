@@ -23,5 +23,5 @@ http://prscsl-sr.shop/
 ![유스케이어 다이어그램](https://user-images.githubusercontent.com/110075438/184656512-d3a36147-0904-4ec3-a7f0-f16b8d3cfeb1.PNG)
 
 
-## API 설계
-
+## API 명세서
+![API명세서](https://user-images.githubusercontent.com/110075438/184659431-c221ecff-ed33-4c2a-938a-7a6ec1033fa2.PNG)
