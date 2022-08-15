@@ -20,7 +20,8 @@ http://prscsl-sr.shop/
     - 글이 삭제되게 하기
     
 ## Use Case
-![poster](/유스케이어 다이어그램.png)
+![유스케이어 다이어그램](https://user-images.githubusercontent.com/110075438/184656512-d3a36147-0904-4ec3-a7f0-f16b8d3cfeb1.PNG)
+
 
 ## API 설계
 
